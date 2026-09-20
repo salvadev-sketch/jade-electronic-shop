@@ -1,6 +1,6 @@
-# Contributing to QuickCart
+# Contributing to Jade Electronic Shop
 
-Thank you for considering contributing to **QuickCart** 
+Thank you for considering contributing to **Jade Electronic Shop** 
 We welcome contributions from everyone whether it's fixing a bug, adding a new feature or improving the design.
 
 ---
